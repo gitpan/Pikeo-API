@@ -1,6 +1,6 @@
 ---
 name: Pikeo-API
-version: 1.00
+version: 1.01
 author: []
 abstract: High-level OO interface to pikeo.com API!
 license: perl
@@ -20,7 +20,7 @@ build_requires:
 provides:
   Pikeo::API:
     file: lib/Pikeo/API.pm
-    version: 1.00
+    version: 1.01
   Pikeo::API::Album:
     file: lib/Pikeo/API/Album.pm
   Pikeo::API::Base:

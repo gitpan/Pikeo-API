@@ -24,11 +24,11 @@ Pikeo::API - High-level OO interface to pikeo.com API!
 
 =head1 VERSION
 
-Version 0.51
+Version 1.01 
 
 =cut
 
-our $VERSION = '1.00';
+our $VERSION = '1.01';
 
 =head1 SYNOPSIS
 
@@ -71,7 +71,7 @@ for their constructors.
 
 Search and retrieve photos.
 
-=item Pikeo::API::People
+=item Pikeo::API::User
 
 Search and retrieve users/profiles.
 
